@@ -15,3 +15,5 @@ public:
     
     Course(int id, string title, string category, string tutor, string syllabus, int difficulty, double price, float rating);
 };
+
+#endif
